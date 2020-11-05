@@ -2,6 +2,14 @@
  * Bill Nicholson
  * nicholdw@ucmail.uc.edu
  */
+/*
+ * Name: David Hollins
+ * Email: hollindv@mail.uc.edu
+ * Course: IT 3045C
+ * Due Date: 11/05/2020
+ * Assignment #: 07
+ * Description: FantasticBeasts
+ */
 using System;
 using System.Threading;
 

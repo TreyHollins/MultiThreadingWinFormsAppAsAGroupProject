@@ -70,7 +70,7 @@
     <Compile Include="FantasticBeastsNotUsed\RapaciousRobin.cs" />
     <Compile Include="FantasticBeastsNotUsed\ReasonableRaccoon.cs" />
     <Compile Include="FantasticBeastsNotUsed\SpuriousSwallow.cs" />
-    <Compile Include="FantasticBeastsNotUsed\SuperSheep.cs" />
+    <Compile Include="FantasticBeasts\SuperSheep.cs" />
     <Compile Include="Form1.cs">
       <SubType>Form</SubType>
     </Compile>
